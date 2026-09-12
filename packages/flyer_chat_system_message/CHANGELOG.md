@@ -1,3 +1,7 @@
+## 2.2.1
+
+ - **REFACTOR**: replace flutter material imports with material_ui and update package dependencies ([#893](https://github.com/flyerhq/flutter_chat_ui/issues/893)). ([a2f5021b](https://github.com/flyerhq/flutter_chat_ui/commit/a2f5021bcf222dda359c1bdde0b7d6bd7bdad8c0))
+
 ## 2.2.0
 
  - **FEAT**: update deps - requires min dart 3.8 and flutter 3.32 ([#871](https://github.com/flyerhq/flutter_chat_ui/issues/871)). ([588b34bd](https://github.com/flyerhq/flutter_chat_ui/commit/588b34bd398900c8f25ee69c574d1e35391af1d1))
